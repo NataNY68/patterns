@@ -4,6 +4,21 @@
     "test": "vitest"
   },
   "dependencies": {
-    "vitest": "^3.0.4"
-  }
+    "vitest": "^3.2.4"
+  },
+  "version": "1.0.0",
+  "description": "In this problem set, you'll learn some common coding patterns that you'll use for the rest of your programming career!",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataNY68/patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataNY68/patterns/issues"
+  },
+  "homepage": "https://github.com/NataNY68/patterns#readme"
 }
